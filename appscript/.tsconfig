@@ -1,0 +1,7 @@
+// tsconfig.json
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "types": ["google-apps-script"]
+  }
+}

@@ -1,0 +1,10 @@
+// .jshintrc
+{
+  "globals": {
+    "SpreadsheetApp": true,
+    "FormApp": true,
+    "DriveApp": true,
+    "GmailApp": true
+  }
+}
+
